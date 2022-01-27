@@ -30,7 +30,7 @@ public class Servlet4 extends HttpServlet {
 	   SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd EEEE");
 	   response.setContentType("text/html; charset=utf-8");
 	   PrintWriter out = response.getWriter();
-	   out.print("Servlet4 test2:" + sdf.format(new Date()));
+	   out.print("Servlet4 test1 test2:" + sdf.format(new Date()));
 	}
 
 	/**
