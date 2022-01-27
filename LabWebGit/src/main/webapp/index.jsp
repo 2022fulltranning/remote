@@ -12,6 +12,8 @@
       <a href="<c:url value="/servlet1"/>">Servlet1</a>
       <br>
       <a href="<c:url value="/servlet2"/>">Servlet2</a>
+      <br>
+      <a href="<c:url value="/servlet3"/>">Servlet2</a>
    </h3>
 </body>
 </html>
