@@ -28,14 +28,14 @@
     <url-pattern>/servlet3</url-pattern>
   </servlet-mapping>
   
-  <servlet>
-    <servlet-name>Servlet4</servlet-name>
-    <servlet-class>view.Servlet4</servlet-class>
-  </servlet>
-  <servlet-mapping>
-    <servlet-name>Servlet4</servlet-name>
-    <url-pattern>/servlet4</url-pattern>
-  </servlet-mapping>
+<!--   <servlet> -->
+<!--     <servlet-name>Servlet4</servlet-name> -->
+<!--     <servlet-class>view.Servlet4</servlet-class> -->
+<!--   </servlet> -->
+<!--   <servlet-mapping> -->
+<!--     <servlet-name>Servlet4</servlet-name> -->
+<!--     <url-pattern>/servlet4</url-pattern> -->
+<!--   </servlet-mapping> -->
   
   <welcome-file-list>
     <welcome-file>index.jsp</welcome-file>
